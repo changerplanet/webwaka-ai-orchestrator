@@ -1,0 +1,11 @@
+{
+  "moduleId": "webwaka_ai_orchestrator",
+  "class": "ai",
+  "version": "0.1.0",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "repository": "https://github.com/changerplanet/webwaka-ai-orchestrator",
+    "created": "2026-01-20"
+  }
+}
