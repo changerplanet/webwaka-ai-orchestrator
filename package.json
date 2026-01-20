@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-ai-orchestrator",
+  "version": "0.1.0",
+  "description": "WebWaka ai module",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
